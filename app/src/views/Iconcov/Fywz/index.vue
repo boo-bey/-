@@ -6,7 +6,10 @@
 
 <script>
 export default {
-  name:"Fywz"
+  name:"Fywz",
+  components:{
+    
+  }
 }
 </script>
 
