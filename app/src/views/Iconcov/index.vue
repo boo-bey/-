@@ -17,8 +17,8 @@ export default {
       list: [
         { id: 1, img: 'https://img1.dxycdn.com/2021/0804/220/9442938684169526943-22.png', msg: '问医生', path: '/ask' },
         { id: 2, img: 'https://img1.dxycdn.com/2021/0804/598/2642938684169526943-22.png', msg: '核酸检测', path: '/test' },
-        { id: 3, img: 'https://img1.dxycdn.com/2021/0804/827/1742938684169526943-22.png', msg: '防疫物资', path: '/wuzi' },
-        { id: 4, img: '	https://img1.dxycdn.com/2021/0804/239/7448668684169526943-22.png', msg: '出行政策', path: '/' }
+        { id: 3, img: 'https://img1.dxycdn.com/2021/0804/827/1742938684169526943-22.png', msg: '防疫物资', path: '/fywz' },
+        { id: 4, img: '	https://img1.dxycdn.com/2021/0804/239/7448668684169526943-22.png', msg: '出行政策', path: '/trivel' }
       ]
     }
   },
