@@ -1,12 +1,12 @@
 <template>
-  <keep-alive>
-    <router-view></router-view>
-  </keep-alive>
+  <div class="nave">
+    导航
+  </div>
 </template>
 
 <script>
 export default {
-  
+
 }
 </script>
 

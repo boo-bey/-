@@ -1,15 +1,14 @@
 <template>
-  <keep-alive>
-    <router-view></router-view>
-  </keep-alive>
+    <div class="trivel">
+        出行政策
+    </div>
 </template>
 
 <script>
 export default {
-  
+    name:'AskDoctor'
 }
 </script>
 
 <style>
-
 </style>

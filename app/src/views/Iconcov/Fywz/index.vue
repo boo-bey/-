@@ -1,12 +1,12 @@
 <template>
-  <keep-alive>
-    <router-view></router-view>
-  </keep-alive>
+  <div class="fywz">
+    防疫物资
+  </div>
 </template>
 
 <script>
 export default {
-  
+
 }
 </script>
 
