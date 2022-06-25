@@ -3,6 +3,8 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import '@/assets/common/reset.css'
+import echarts from '@/plugins/echarts'
+Vue.use(echarts)
 
 Vue.config.productionTip = false
 
